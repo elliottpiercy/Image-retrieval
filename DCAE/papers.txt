@@ -1,0 +1,2 @@
+Learning Fine-grained Image Similarity with Deep Ranking
+https://users.eecs.northwestern.edu/~jwa368/pdfs/deep_ranking.pdf
