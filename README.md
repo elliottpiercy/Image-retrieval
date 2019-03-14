@@ -9,4 +9,5 @@ Multiple image retrieval algorithms:
 
 
 Data class -  Allows for the data to be passed like the tensorflow MNIST data.
+
 Metric fusion - Fuse multiple features together with minimal information loss
